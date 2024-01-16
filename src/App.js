@@ -5,7 +5,7 @@
 */
 
 // State hook u import edin
-import React, {useState} from "react";
+import React from "react";
 
 // Gönderiler (çoğul!) ve AramaÇubuğu bileşenlerini import edin, çünkü bunlar App bileşeni içinde kullanılacak
 // sahteVeri'yi import edin
